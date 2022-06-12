@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas5_19030013</string>
+    <string name="prompt_email" />
+    <string name="prompt_password" />
+    <string name="action_sign_in_short" />
+    <string name="action_sign_in" />
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+</resources>
